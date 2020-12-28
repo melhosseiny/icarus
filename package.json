@@ -1,0 +1,23 @@
+{
+  "name": "@melhosseiny/icarus",
+  "version": "0.0.1",
+  "description": "Fork of JSCheck",
+  "author": "Mostafa Elshamy",
+  "main": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melhosseiny/icarus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/melhosseiny/icarus/issues"
+  },
+  "homepage": "https://github.com/melhosseiny/icarus#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "14.x"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
