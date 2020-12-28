@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Fork of JSCheck",
   "author": "Mostafa Elshamy",
-  "main": "index.mjs",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/melhosseiny/icarus.git"

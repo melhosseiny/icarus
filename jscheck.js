@@ -18,7 +18,7 @@
     string, stringify, summary, time_limit, total, type, verdict, wun_of
 */
 
-import fulfill from "./fulfill.mjs";
+import fulfill from "./fulfill.js";
 
 function resolve(value, ...rest) {
 
