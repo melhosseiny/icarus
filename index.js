@@ -1,1 +1,1 @@
-export jscheck from "./jscheck.js";
+export { default as jscheck } from "./jscheck.js";
