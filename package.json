@@ -1,6 +1,7 @@
 {
   "name": "@melhosseiny/icarus",
   "version": "0.0.1",
+  "type": "module",
   "description": "Fork of JSCheck",
   "author": "Mostafa Elshamy",
   "main": "index.js",
